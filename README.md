@@ -18,13 +18,6 @@ Principal Platform Architect at [Kloia](https://kloia.com), an AWS Premier Partn
 
 I write about infrastructure, cloud, and systems at [halid.org](https://halid.org) and on the [Kloia blog](https://kloia.com/blog).
 
-## 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=halidaltuner&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halidaltuner&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
-</p>
-
 ![Profile views](https://komarev.com/ghpvc/?username=halidaltuner&color=blue&style=flat)
 
 ## 🧰 Badges
