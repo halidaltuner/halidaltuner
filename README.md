@@ -1,6 +1,9 @@
 # Hi, I'm Halid 👋
 
 Principal Platform Architect at [Kloia](https://kloia.com), an AWS Premier Partner. I design and build cloud platforms, Kubernetes/OpenShift environments, and AI/LLM infrastructure. Previously CTO and co-founder in defense tech and IIoT.
+[![halid.org](https://img.shields.io/badge/halid.org-engineering_notebook-0891B2?style=flat-square&labelColor=0B1220)](https://halid.org)
+
+Posts, notes, snippets, homelab builds, talks and a personal tech radar live at **[halid.org](https://halid.org)**.
 
 ## 🔭 What I'm working on
 
