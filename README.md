@@ -8,6 +8,7 @@ Posts, notes, snippets, homelab builds, talks and a personal tech radar live at 
 
 ## 🔭 What I'm working on
 
+- [Project RADP](https://github.com/Project-RADP) - Open-source AI agent platform for RISC-V chip design
 - [OpenKor](https://github.com/OpenKorProject) - open-source KVM/libvirt web management platform
 - [spacectl](https://github.com/halidaltuner/spacectl) - read-only macOS terminal app for disk usage analysis
 - Platform engineering, landing zones, and DevSecOps consulting at Kloia
