@@ -16,7 +16,9 @@ Posts, notes, snippets, homelab builds, talks and a personal tech radar live at 
 ## 🛠 Stack
 
 **Languages:** Go, Rust, C/C++, Python, Ruby
+
 **Platforms:** Kubernetes, OpenShift, AWS, GCP, OpenStack, Linux/BSD
+
 **Focus areas:** Platform Engineering, Cloud Migration, DevSecOps, HPC, AI/LLM Architecture, Network Security (DPI, DPDK/VPP), IoT/IIoT
 
 ## ✍️ Writing
